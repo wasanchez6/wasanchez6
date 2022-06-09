@@ -1,4 +1,6 @@
 ### HI THERE WELCOME MY FRIEND 🤟
+![Esta es una imagen](https://myoctocat.com/assets/images/base-octocat.svg)
+
 
 <!--
 **wasanchez6/wasanchez6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
